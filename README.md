@@ -40,6 +40,11 @@ Date: xxx
 </nex_token>
 </xml>
 ```
+
+# Usage
+
+Follow the steps in this [guide](https://gist.github.com/MCMi460/4847d0b88cd1835f4b0811ff35d1649d).
+
 # What works
 * Dissection of PRUDP v0 (3DS, WiiU friends)
 * Dissection of PRUDP v1 (Some 3DS games, most Wii U uses)
